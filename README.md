@@ -1,4 +1,5 @@
 # Trablho-Android-Studio-M2
+## Foi feito um zip pois o arquivo era muito grande
 
 link vídeo APP: https://www.youtube.com/shorts/ZLY0n3in_Vw
 
@@ -8,4 +9,3 @@ Alunos:
 - Eduardo Amaro Maciel
 - Guilherme Luis da Silva
 - Thiago Lamim Borges
-
